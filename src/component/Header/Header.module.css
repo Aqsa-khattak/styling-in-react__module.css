@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(189, 237, 237);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    margin: 10px 50px;
+    
+}
+.button{
+    padding: 10px 20px;
+    border-radius: 6px;
+    background-color: rgb(236, 207, 168);
+    color: black;
+    border: 2px solid black;
+}
